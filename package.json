@@ -1,6 +1,6 @@
 {
   "name": "@dvpnt/webpack-simple-progress-plugin",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "simple webpack progress plugin",
   "main": "index.js",
   "scripts": {
